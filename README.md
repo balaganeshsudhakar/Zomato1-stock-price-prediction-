@@ -1,7 +1,7 @@
 # Zomato1-stock-price-prediction-
 Project based on Zomato Stock Price Prediction Machine Learning model using LR,DT&amp;RF Method
 
-https://youtu.be/dMmBoLOCAPA?si=_lFjmXHMiLYxeIti
+https://github.com/balaganeshsudhakar/Zomato1-stock-price-prediction-/assets/142782162/bd9716b0-38e3-4487-81ee-cd4753818cfa
 
 DESCRIPTION
 
