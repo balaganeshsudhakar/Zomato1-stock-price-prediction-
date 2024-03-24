@@ -12,17 +12,17 @@ Approach
 Step 1. Importing the Libraries such as
 
 1.pandas,
-numpy
-matplotlib
-seaborn
-os
-sklearn model selection import train_train_slpit
-sklearn.preprocessing import OneHotEncoder,StandardScaler
-sklearn.linear_model import LinearRegression,Ridge,Lasso
-joblib import dump, load
-klearn.linear_model import LinearRegression,Ridge,Lasso
-sklearn.tree import DecisionTreeRegressor
-sklearn.ensemble import RandomForestRegressor
+numpy,
+matplotlib,
+seaborn,
+os,
+sklearn model selection import train_train_slpit,
+sklearn.preprocessing import OneHotEncoder,StandardScaler,
+sklearn.linear_model import LinearRegression,Ridge,Lasso,
+joblib import dump, load,
+klearn.linear_model import LinearRegression,Ridge,Lasso,
+sklearn.tree import DecisionTreeRegressor,
+sklearn.ensemble import RandomForestRegressor,
 
 Step 2. Dataset Reading.
 
