@@ -4,12 +4,14 @@ Project based on Zomato Stock Price Prediction Machine Learning model using LR,D
 https://youtu.be/dMmBoLOCAPA?si=_lFjmXHMiLYxeIti
 
 DESCRIPTION
+
 This dataset presents historical stock price information for Zomato, a leading online food delivery and restaurant aggregator company. The dataset is compiled with data collected over a specific time period, showcasing the fluctuation in Zomato’s stock prices over days, weeks, or months, depending on the granularity of the dataset.This dataset is valuable for analysts, researchers, and investors interested in studying the historical performance and trends of Zomato’s stock in the financial markets. It can be utilized for various purposes such as technical analysis, trend forecasting, and quantitative modeling to make informed decisions related to investments or understanding market dynamics.
 
 Approach
+
 Step 1. Importing the Libraries such as
 
-pandas
+1.pandas,
 numpy
 matplotlib
 seaborn
